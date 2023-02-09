@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: MK Website
+description: A simple, beautiful, and powerful bigdata for blogs
+url: https://minkyung-s.github.io
+avatar: /judy.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /disney.jpeg
 
 # Gems
 plugins:
